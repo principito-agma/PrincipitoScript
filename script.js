@@ -27,7 +27,8 @@ ______     _            _       _ _        _       _____           _       _
 
 IMPORTANT!
 
-For a better experience, disable cache from Developer Tools (F12 and go to Network tab)
+Sometimes the script may not work due to browser cache issue.
+To ensure script works always, reload the page ignoring cache pressing CTRL+F5
 
 ---------------------------------------------------------------------------------
 
