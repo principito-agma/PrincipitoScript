@@ -10,5 +10,4 @@ For a better experience, disable cache from Developer Tools (F12 and go to Netwo
 Current features:
 
 -Multidrop powers
-
 -Instant respawn (no wait between respawns)
