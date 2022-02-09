@@ -24,10 +24,11 @@ ______     _            _       _ _        _       _____           _       _
 
 
 ---------------------------------------------------------------------------------
-CURRENT FEATURES:
 
-MULTIDROP
-INSTANT RESPAWN
+IMPORTANT!
+
+For a better experience, disable cache from Developer Tools (F12 and go to Network tab)
+
 ---------------------------------------------------------------------------------
 
 */
