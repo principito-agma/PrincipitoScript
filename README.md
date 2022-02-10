@@ -2,4 +2,4 @@
 Principito's Script for Agma.io
 
 
-Soon!
+Install from https://www.principito.net
